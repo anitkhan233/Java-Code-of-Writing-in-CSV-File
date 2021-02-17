@@ -1,5 +1,10 @@
 # Java-Code-of-Writing-in-CSV-File
 A Java project created in Eclipse which reads from a CSV file and then writes in another CSV file
+
+Source Code can be found in 2 files - 
+1. "CSVFileWrite-17022021/src/csvfilewrite/CSVFileWrite.java" - has the main()
+2. "CSVFileWrite-17022021/src/readFromCSVFile//RealReleaseTimeFromCSVFile.java"
+
 /**
  * 
  * @author anit
